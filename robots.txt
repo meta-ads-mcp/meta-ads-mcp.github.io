@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://meta-ads-mcp.github.io/sitemap.xml
